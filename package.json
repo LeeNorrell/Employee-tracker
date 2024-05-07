@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "pg": "^8.11.5"
+  },
+  "name": "employee-tracker",
+  "description": "Backend developement to log tables with employee data.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LeeNorrell",
+  "license": "ISC"
+}
