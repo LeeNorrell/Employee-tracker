@@ -9,7 +9,9 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "seed/seed server.js",
+    "start": "node server.js"
   },
   "author": "LeeNorrell",
   "license": "ISC"
